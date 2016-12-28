@@ -1,0 +1,23 @@
+{
+  "name": "CibelesJS",
+  "version": "0.0.1",
+  "description": "A new framework with the best features of a platform and a library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madridjs/CibelesJS.git"
+  },
+  "keywords": [
+    "Cibeles",
+    "framework"
+  ],
+  "author": "MadridJS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madridjs/CibelesJS/issues"
+  },
+  "homepage": "https://github.com/madridjs/CibelesJS"
+}
